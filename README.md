@@ -64,7 +64,7 @@ After you're finished please remove all the comments and instructions!
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**[Awesome Books]** This project is a JavaScript challenge to create and remove books from a list of books and storage the data in the localStorage with ES6
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -75,33 +75,23 @@ After you're finished please remove all the comments and instructions!
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li>HTML5</li>
+    <li>CSS</li>
+    <li>JS</li>
+    <li>ESLint</li>
+    <li>StyleLints</li>
+    <li>GitFlow</li>
   </ul>
 </details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
-
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[Dynamically]**
+- **[Gitflow]**
+- **[Good HTML, JS and CSS practices]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -207,15 +197,7 @@ Example:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/banzaman)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -225,9 +207,8 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[Notifications]**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -237,7 +218,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/banzaman/ES6-Awesome-books/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -267,14 +248,14 @@ I would like to thank...
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**
+- **What is this for?**
 
-  - [Answer_1]
+  - This is a JavaScript activity to help us learn how to create a nice website with best practices and with content storage and manipulation.
 
-- **[Question_2]**
+- **Can i copy this project?**
 
-  - [Answer_2]
-
+  - Your welcome, copy this project and let me know if you need something.
+  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
