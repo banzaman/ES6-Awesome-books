@@ -62,8 +62,6 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [your_project_name] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
 **[Awesome Books]** This project is a JavaScript challenge to create and remove books from a list of books and storage the data in the localStorage with ES6
 
 ## 🛠 Built With <a name="built-with"></a>
