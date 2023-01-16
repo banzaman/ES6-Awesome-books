@@ -15,11 +15,12 @@
     "no-param-reassign": "off",
     "eol-last": "off",
     "import/extensions": [ 1, {
-      "js": "always", "json": "always"
+      "js": "always", "mjs" : "always", "json": "always"
     }]
   },
   "ignorePatterns": [
     "dist/",
     "build/"
+    "luxon.js"
   ]
 }
